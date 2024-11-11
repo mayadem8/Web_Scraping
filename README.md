@@ -16,4 +16,4 @@ Ensure you have the following Python packages installed:
 - `beautifulsoup4`
 - `xlsxwriter`
 - `lxml`
-- `time` (for sleeping between requests)
+- `time`
